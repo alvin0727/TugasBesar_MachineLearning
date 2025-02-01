@@ -71,7 +71,7 @@ The evaluation results of the model on the test set are:
 ### **Cluster Analysis**
 We have identified **four clusters** represented by red, green, purple, and blue colors:
 
-![K-Means](https://i.imgur.com/your-image-id.png)
+![K-Means](https://github.com/alvin0727/TugasBesar_MachineLearning/blob/main/images/image1.png)
 
 - **Red Cluster**: Includes customers aged **20 to 35 years old**. The most common occupations in this group are **students (12)** and **administrators (7)**, with the majority being **single**.
 - **Green Cluster**: Includes customers aged **28 to 39 years old**. The most frequent occupations in this group are **management (0)** and **technician (1)**, with most individuals being **married**.
